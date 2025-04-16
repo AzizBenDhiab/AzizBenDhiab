@@ -37,7 +37,7 @@
 
 📫 **How to reach me**
 
-- [LinkedIn](linkedin.com/in/mohamed-aziz-ben-dhiab-294b96264)  
+- [LinkedIn](https://www.linkedin.com/in/mohamed-aziz-ben-dhiab-294b96264/))  
 - Email: mohamedaziz.bendhiab@gmail.com  
 
 
