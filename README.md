@@ -12,7 +12,7 @@
 - **Languages:** JavaScript / TypeScript, Python, Java, SQL  
 - **Frontend:** ReactJS, Angular  
 - **Backend:** NestJS, Flask  
-- **DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions  
+- **DevOps:** Docker, Kubernetes, Jenkins, Helm, ArgoCD
 - **Cloud:** AWS  
 - **Data & AI:** MySQL, Spark, Pandas, Scikit-learn, TensorFlow  
 - **Other:** Git, Postman, Linux, VS Code
