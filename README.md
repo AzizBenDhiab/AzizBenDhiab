@@ -1,44 +1,41 @@
-### Hi there 👋 I'm Mohamed Aziz Ben Dhiab
+### Hi, I'm Mohamed Aziz Ben Dhiab 👋
 
-🚀 I'm an AWS Certified Solutions Architect - Associate, Full-Stack Developer, and DevOps Enthusiast.  
-🎓 Currently pursuing a Software Engineering degree at INSAT.  
-🌐 Passionate about cloud computing, CI/CD pipelines and building scalable, efficient systems.  
-🔧 Currently working on mastering the Kubernetes ecosystem — including Helm, Kustomize, and Kubernetes Dashboard — to build robust microservice applications.
+DevOps & Cloud Engineer, AWS Certified Solutions Architect. Software engineering graduate from INSAT (2026).
 
----
-
-🛠️ **Tech Stack & Tools**
-
-- **Languages:** JavaScript / TypeScript, Python, Java, SQL  
-- **Frontend:** ReactJS, Angular  
-- **Backend:** NestJS, Flask  
-- **DevOps:** Docker, Kubernetes, Jenkins, Helm, ArgoCD
-- **Cloud:** AWS  
-- **Data & AI:** MySQL, Spark, Pandas, Scikit-learn, TensorFlow  
-- **Other:** Git, Postman, Linux, VS Code
+I build and run cloud infrastructure on AWS, Azure and Kubernetes, with a focus on automation, reliability, cost and security.
+Currently open to full-time DevOps, Cloud, SRE and Platform Engineering roles.
 
 ---
 
-💬 **Ask me about**
+🔧 **What I've worked on**
 
-- DevOps best practices and tooling  
-- Building full-stack web applications  
-- AWS architecture and cloud-native solutions  
-- Real-time data pipelines and dashboards
-
----
-
-👯 **I’m looking to collaborate on**
-
-- DevOps projects and cloud-native applications  
-- Open-source tools that help developers and teams
+- **Production Kubernetes:** operated EKS clusters serving 6M+ users: Terraform changes, GitLab CI deployments, Karpenter autoscaling, troubleshooting and incidents.
+- **Multi-tenant infrastructure:** automated dedicated Azure/AKS environments per client with Terraform and GitOps (ArgoCD), cutting deployment time from 5h to 5 min.
+- **Log platform migration:** moved a production logging stack from OpenSearch to Quickwit on EKS (80M logs/day), after a FinOps study. Logging costs went down 90% with sub-second search.
+- **Cloud security:** AWS account audit with Prowler (5,000+ findings triaged into a prioritized remediation plan), secretless access with Workload Identity.
 
 ---
 
-📫 **How to reach me**
+🛠️ **Stack**
 
-- [LinkedIn](https://www.linkedin.com/in/mohamed-aziz-ben-dhiab-294b96264/) 
-- Email: mohamedaziz.bendhiab@insat.ucar.tn  
+- **Cloud:** AWS, Azure
+- **IaC:** Terraform, Terragrunt
+- **Containers:** Docker, Kubernetes, Helm, Kustomize, Karpenter
+- **CI/CD & GitOps:** GitLab CI, GitHub Actions, Jenkins, ArgoCD
+- **Observability:** Prometheus, Grafana, Fluent Bit, Quickwit, Elasticsearch
+- **Scripting:** Bash, Python, PowerShell
 
+---
 
+📂 **Projects**
 
+- [PumpWatch](https://github.com/AzizBenDhiab/pump-watch_helm_chart): AI predictive maintenance app deployed on Kubernetes with Helm. 1st prize, Hack for Good 3.
+- [ServiceCom infrastructure](https://github.com/emna-dammak/servicecom-infrastructure): containerized app deployed on Azure with Jenkins and Terraform, monitored with Prometheus/Grafana.
+
+---
+
+📫 **Reach me**
+
+- [LinkedIn](https://www.linkedin.com/in/mohamed-aziz-ben-dhiab)
+- ma.bendhiab@gmail.com
+- [AWS certification](https://cp.certmetrics.com/amazon/en/public/verify/credential/05954ee21e2f44ae9fe399de2c405d2a)
